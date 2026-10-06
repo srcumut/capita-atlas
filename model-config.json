@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "decision_id": "D-005",
+  "country_scope_decision": "D-002",
+  "reference_year": 2025,
+  "country_count": 195,
+  "origin": { "latitude": 0, "longitude": 0 },
+  "geodesic": "WGS84",
+  "distance_multiplier": 1,
+  "budget_km": 10000,
+  "categories": [
+    { "id": "population", "weight": 0.5, "indicator_id": "population_total", "indicator_weight": 1, "normalization": "share_of_fixed_scope_total" },
+    { "id": "economy", "weight": 0.5, "indicator_id": "gdp_current_usd", "indicator_weight": 1, "normalization": "share_of_fixed_scope_total" }
+  ],
+  "missing_value_policy": "no_global_result_until_all_selected_observations_resolved",
+  "automatic_imputation": false
+}

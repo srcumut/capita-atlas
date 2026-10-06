@@ -1,0 +1,3515 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "AFG",
+      "properties": {
+        "country_id": "AFG",
+        "country_name": "Afghanistan",
+        "capital_name": "Kabul",
+        "source_url": "https://www.geonames.org/1138958/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17233,
+          34.52813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AGO",
+      "properties": {
+        "country_id": "AGO",
+        "country_name": "Angola",
+        "capital_name": "Luanda",
+        "source_url": "https://www.geonames.org/2240449/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.23432,
+          -8.83682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ALB",
+      "properties": {
+        "country_id": "ALB",
+        "country_name": "Albania",
+        "capital_name": "Tirana",
+        "source_url": "https://www.geonames.org/3183875/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81866,
+          41.32744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AND",
+      "properties": {
+        "country_id": "AND",
+        "country_name": "Andorra",
+        "capital_name": "Andorra la Vella",
+        "source_url": "https://www.geonames.org/3041563/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.52109,
+          42.50779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ARE",
+      "properties": {
+        "country_id": "ARE",
+        "country_name": "United Arab Emirates",
+        "capital_name": "Abu Dhabi",
+        "source_url": "https://www.geonames.org/292968/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.39696,
+          24.45118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ARG",
+      "properties": {
+        "country_id": "ARG",
+        "country_name": "Argentina",
+        "capital_name": "Buenos Aires",
+        "source_url": "https://www.geonames.org/3435910/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37723,
+          -34.61315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ARM",
+      "properties": {
+        "country_id": "ARM",
+        "country_name": "Armenia",
+        "capital_name": "Yerevan",
+        "source_url": "https://www.geonames.org/616052/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.5126,
+          40.17765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ATG",
+      "properties": {
+        "country_id": "ATG",
+        "country_name": "Antigua and Barbuda",
+        "capital_name": "Saint John’s",
+        "source_url": "https://www.geonames.org/3576022/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Saint John's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.84329,
+          17.12096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AUS",
+      "properties": {
+        "country_id": "AUS",
+        "country_name": "Australia",
+        "capital_name": "Canberra",
+        "source_url": "https://www.geonames.org/2172517/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.12807,
+          -35.28346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AUT",
+      "properties": {
+        "country_id": "AUT",
+        "country_name": "Austria",
+        "capital_name": "Vienna",
+        "source_url": "https://www.geonames.org/2761369/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37208,
+          48.20849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AZE",
+      "properties": {
+        "country_id": "AZE",
+        "country_name": "Azerbaijan",
+        "capital_name": "Baku",
+        "source_url": "https://www.geonames.org/587084/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.89201,
+          40.37767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BDI",
+      "properties": {
+        "country_id": "BDI",
+        "country_name": "Burundi",
+        "capital_name": "Gitega",
+        "source_url": "https://www.geonames.org/426272/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.92463,
+          -3.42708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BEL",
+      "properties": {
+        "country_id": "BEL",
+        "country_name": "Belgium",
+        "capital_name": "Brussels",
+        "source_url": "https://www.geonames.org/2800866/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34878,
+          50.85045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BEN",
+      "properties": {
+        "country_id": "BEN",
+        "country_name": "Benin",
+        "capital_name": "Porto-Novo",
+        "source_url": "https://www.geonames.org/2392087/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.60359,
+          6.49646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BFA",
+      "properties": {
+        "country_id": "BFA",
+        "country_name": "Burkina Faso",
+        "capital_name": "Ouagadougou",
+        "source_url": "https://www.geonames.org/2357048/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.53388,
+          12.36566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BGD",
+      "properties": {
+        "country_id": "BGD",
+        "country_name": "Bangladesh",
+        "capital_name": "Dhaka",
+        "source_url": "https://www.geonames.org/1185241/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40744,
+          23.7104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BGR",
+      "properties": {
+        "country_id": "BGR",
+        "country_name": "Bulgaria",
+        "capital_name": "Sofia",
+        "source_url": "https://www.geonames.org/727011/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.32415,
+          42.69751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BHR",
+      "properties": {
+        "country_id": "BHR",
+        "country_name": "Bahrain",
+        "capital_name": "Manama",
+        "source_url": "https://www.geonames.org/290340/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.58565,
+          26.22787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BHS",
+      "properties": {
+        "country_id": "BHS",
+        "country_name": "Bahamas",
+        "capital_name": "Nassau",
+        "source_url": "https://www.geonames.org/3571824/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.34306,
+          25.05823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BIH",
+      "properties": {
+        "country_id": "BIH",
+        "country_name": "Bosnia and Herzegovina",
+        "capital_name": "Sarajevo",
+        "source_url": "https://www.geonames.org/3191281/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.35644,
+          43.84864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLR",
+      "properties": {
+        "country_id": "BLR",
+        "country_name": "Belarus",
+        "capital_name": "Minsk",
+        "source_url": "https://www.geonames.org/625144/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.56653,
+          53.90019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BLZ",
+      "properties": {
+        "country_id": "BLZ",
+        "country_name": "Belize",
+        "capital_name": "Belmopan",
+        "source_url": "https://www.geonames.org/3582672/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.76401,
+          17.25376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BOL",
+      "properties": {
+        "country_id": "BOL",
+        "country_name": "Bolivia",
+        "capital_name": "Sucre",
+        "source_url": "https://www.geonames.org/3903987/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.26274,
+          -19.03332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BRA",
+      "properties": {
+        "country_id": "BRA",
+        "country_name": "Brazil",
+        "capital_name": "Brasília",
+        "source_url": "https://www.geonames.org/3469058/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.92972,
+          -15.77972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BRB",
+      "properties": {
+        "country_id": "BRB",
+        "country_name": "Barbados",
+        "capital_name": "Bridgetown",
+        "source_url": "https://www.geonames.org/3374036/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.62021,
+          13.10732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BRN",
+      "properties": {
+        "country_id": "BRN",
+        "country_name": "Brunei",
+        "capital_name": "Bandar Seri Begawan",
+        "source_url": "https://www.geonames.org/1820906/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.94006,
+          4.89035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BTN",
+      "properties": {
+        "country_id": "BTN",
+        "country_name": "Bhutan",
+        "capital_name": "Thimphu",
+        "source_url": "https://www.geonames.org/1252416/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64191,
+          27.46609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "BWA",
+      "properties": {
+        "country_id": "BWA",
+        "country_name": "Botswana",
+        "capital_name": "Gaborone",
+        "source_url": "https://www.geonames.org/933773/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.90859,
+          -24.65451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CAF",
+      "properties": {
+        "country_id": "CAF",
+        "country_name": "Central African Republic",
+        "capital_name": "Bangui",
+        "source_url": "https://www.geonames.org/2389853/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.55496,
+          4.36122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CAN",
+      "properties": {
+        "country_id": "CAN",
+        "country_name": "Canada",
+        "capital_name": "Ottawa",
+        "source_url": "https://www.geonames.org/6094817/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.69812,
+          45.41117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CHE",
+      "properties": {
+        "country_id": "CHE",
+        "country_name": "Switzerland",
+        "capital_name": "Bern",
+        "source_url": "https://www.geonames.org/2661552/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.44744,
+          46.94809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CHL",
+      "properties": {
+        "country_id": "CHL",
+        "country_name": "Chile",
+        "capital_name": "Santiago",
+        "source_url": "https://www.geonames.org/3871336/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.64827,
+          -33.45694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CHN",
+      "properties": {
+        "country_id": "CHN",
+        "country_name": "China",
+        "capital_name": "Beijing",
+        "source_url": "https://www.geonames.org/1816670/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.39723,
+          39.9075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CIV",
+      "properties": {
+        "country_id": "CIV",
+        "country_name": "Ivory Coast",
+        "capital_name": "Yamoussoukro",
+        "source_url": "https://www.geonames.org/2279755/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.27674,
+          6.82055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CMR",
+      "properties": {
+        "country_id": "CMR",
+        "country_name": "Cameroon",
+        "capital_name": "Yaoundé",
+        "source_url": "https://www.geonames.org/2220957/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.51667,
+          3.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COD",
+      "properties": {
+        "country_id": "COD",
+        "country_name": "DR Congo",
+        "capital_name": "Kinshasa",
+        "source_url": "https://www.geonames.org/2314302/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.31357,
+          -4.32758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COG",
+      "properties": {
+        "country_id": "COG",
+        "country_name": "Congo",
+        "capital_name": "Brazzaville",
+        "source_url": "https://www.geonames.org/2260535/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.28318,
+          -4.26613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COL",
+      "properties": {
+        "country_id": "COL",
+        "country_name": "Colombia",
+        "capital_name": "Bogotá",
+        "source_url": "https://www.geonames.org/3688689/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.08175,
+          4.60971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "COM",
+      "properties": {
+        "country_id": "COM",
+        "country_name": "Comoros",
+        "capital_name": "Moroni",
+        "source_url": "https://www.geonames.org/921772/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.25506,
+          -11.70216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CPV",
+      "properties": {
+        "country_id": "CPV",
+        "country_name": "Cape Verde",
+        "capital_name": "Praia",
+        "source_url": "https://www.geonames.org/3374333/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.51254,
+          14.93152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CRI",
+      "properties": {
+        "country_id": "CRI",
+        "country_name": "Costa Rica",
+        "capital_name": "San José",
+        "source_url": "https://www.geonames.org/3621849/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08489,
+          9.93388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CUB",
+      "properties": {
+        "country_id": "CUB",
+        "country_name": "Cuba",
+        "capital_name": "Havana",
+        "source_url": "https://www.geonames.org/3553478/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.38304,
+          23.13302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CYP",
+      "properties": {
+        "country_id": "CYP",
+        "country_name": "Cyprus",
+        "capital_name": "Nicosia",
+        "source_url": "https://www.geonames.org/146268/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.35397,
+          35.17284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CZE",
+      "properties": {
+        "country_id": "CZE",
+        "country_name": "Czechia",
+        "capital_name": "Prague",
+        "source_url": "https://www.geonames.org/3067696/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42076,
+          50.08804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DEU",
+      "properties": {
+        "country_id": "DEU",
+        "country_name": "Germany",
+        "capital_name": "Berlin",
+        "source_url": "https://www.geonames.org/2950159/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.41053,
+          52.52437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DJI",
+      "properties": {
+        "country_id": "DJI",
+        "country_name": "Djibouti",
+        "capital_name": "Djibouti",
+        "source_url": "https://www.geonames.org/223817/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.14503,
+          11.58901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DMA",
+      "properties": {
+        "country_id": "DMA",
+        "country_name": "Dominica",
+        "capital_name": "Roseau",
+        "source_url": "https://www.geonames.org/3575635/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.38808,
+          15.30174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DNK",
+      "properties": {
+        "country_id": "DNK",
+        "country_name": "Denmark",
+        "capital_name": "Copenhagen",
+        "source_url": "https://www.geonames.org/2618425/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.56553,
+          55.67594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DOM",
+      "properties": {
+        "country_id": "DOM",
+        "country_name": "Dominican Republic",
+        "capital_name": "Santo Domingo",
+        "source_url": "https://www.geonames.org/3492908/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.89232,
+          18.47186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "DZA",
+      "properties": {
+        "country_id": "DZA",
+        "country_name": "Algeria",
+        "capital_name": "Algiers",
+        "source_url": "https://www.geonames.org/2507480/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08746,
+          36.73225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ECU",
+      "properties": {
+        "country_id": "ECU",
+        "country_name": "Ecuador",
+        "capital_name": "Quito",
+        "source_url": "https://www.geonames.org/3652462/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.52495,
+          -0.22985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EGY",
+      "properties": {
+        "country_id": "EGY",
+        "country_name": "Egypt",
+        "capital_name": "Cairo",
+        "source_url": "https://www.geonames.org/360630/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.24967,
+          30.06263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ERI",
+      "properties": {
+        "country_id": "ERI",
+        "country_name": "Eritrea",
+        "capital_name": "Asmara",
+        "source_url": "https://www.geonames.org/343300/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.93184,
+          15.33805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ESP",
+      "properties": {
+        "country_id": "ESP",
+        "country_name": "Spain",
+        "capital_name": "Madrid",
+        "source_url": "https://www.geonames.org/3117735/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70256,
+          40.4165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "EST",
+      "properties": {
+        "country_id": "EST",
+        "country_name": "Estonia",
+        "capital_name": "Tallinn",
+        "source_url": "https://www.geonames.org/588409/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75353,
+          59.43696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ETH",
+      "properties": {
+        "country_id": "ETH",
+        "country_name": "Ethiopia",
+        "capital_name": "Addis Ababa",
+        "source_url": "https://www.geonames.org/344979/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.74689,
+          9.02497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FIN",
+      "properties": {
+        "country_id": "FIN",
+        "country_name": "Finland",
+        "capital_name": "Helsinki",
+        "source_url": "https://www.geonames.org/658225/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93545,
+          60.16952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FJI",
+      "properties": {
+        "country_id": "FJI",
+        "country_name": "Fiji",
+        "capital_name": "Suva",
+        "source_url": "https://www.geonames.org/2198148/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.42531,
+          -18.13683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FRA",
+      "properties": {
+        "country_id": "FRA",
+        "country_name": "France",
+        "capital_name": "Paris",
+        "source_url": "https://www.geonames.org/2988507/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3488,
+          48.85341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FSM",
+      "properties": {
+        "country_id": "FSM",
+        "country_name": "Micronesia",
+        "capital_name": "Palikir",
+        "source_url": "https://www.geonames.org/2081986/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158.16109,
+          6.92477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GAB",
+      "properties": {
+        "country_id": "GAB",
+        "country_name": "Gabon",
+        "capital_name": "Libreville",
+        "source_url": "https://www.geonames.org/2399697/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45356,
+          0.39241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GBR",
+      "properties": {
+        "country_id": "GBR",
+        "country_name": "United Kingdom",
+        "capital_name": "London",
+        "source_url": "https://www.geonames.org/2643743/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12574,
+          51.50853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GEO",
+      "properties": {
+        "country_id": "GEO",
+        "country_name": "Georgia",
+        "capital_name": "Tbilisi",
+        "source_url": "https://www.geonames.org/611717/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.83412,
+          41.69143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GHA",
+      "properties": {
+        "country_id": "GHA",
+        "country_name": "Ghana",
+        "capital_name": "Accra",
+        "source_url": "https://www.geonames.org/2306104/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1969,
+          5.55602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GIN",
+      "properties": {
+        "country_id": "GIN",
+        "country_name": "Guinea",
+        "capital_name": "Conakry",
+        "source_url": "https://www.geonames.org/2422465/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.67729,
+          9.53795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GMB",
+      "properties": {
+        "country_id": "GMB",
+        "country_name": "Gambia",
+        "capital_name": "Banjul",
+        "source_url": "https://www.geonames.org/2413876/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.57803,
+          13.45274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GNB",
+      "properties": {
+        "country_id": "GNB",
+        "country_name": "Guinea-Bissau",
+        "capital_name": "Bissau",
+        "source_url": "https://www.geonames.org/2374775/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.59767,
+          11.86357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GNQ",
+      "properties": {
+        "country_id": "GNQ",
+        "country_name": "Equatorial Guinea",
+        "capital_name": "Ciudad de la Paz",
+        "source_url": "https://www.geonames.org/12226438/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Malabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.82361,
+          1.5925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GRC",
+      "properties": {
+        "country_id": "GRC",
+        "country_name": "Greece",
+        "capital_name": "Athens",
+        "source_url": "https://www.geonames.org/264371/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.72784,
+          37.98376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GRD",
+      "properties": {
+        "country_id": "GRD",
+        "country_name": "Grenada",
+        "capital_name": "Saint George's",
+        "source_url": "https://www.geonames.org/3579925/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: St. George's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.75226,
+          12.05288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GTM",
+      "properties": {
+        "country_id": "GTM",
+        "country_name": "Guatemala",
+        "capital_name": "Guatemala City",
+        "source_url": "https://www.geonames.org/3598132/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.51327,
+          14.64072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "GUY",
+      "properties": {
+        "country_id": "GUY",
+        "country_name": "Guyana",
+        "capital_name": "Georgetown",
+        "source_url": "https://www.geonames.org/3378644/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.15527,
+          6.80448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HND",
+      "properties": {
+        "country_id": "HND",
+        "country_name": "Honduras",
+        "capital_name": "Tegucigalpa",
+        "source_url": "https://www.geonames.org/3600949/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.20681,
+          14.0818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HRV",
+      "properties": {
+        "country_id": "HRV",
+        "country_name": "Croatia",
+        "capital_name": "Zagreb",
+        "source_url": "https://www.geonames.org/3186886/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.97798,
+          45.81444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HTI",
+      "properties": {
+        "country_id": "HTI",
+        "country_name": "Haiti",
+        "capital_name": "Port-au-Prince",
+        "source_url": "https://www.geonames.org/3718426/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.33881,
+          18.54349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "HUN",
+      "properties": {
+        "country_id": "HUN",
+        "country_name": "Hungary",
+        "capital_name": "Budapest",
+        "source_url": "https://www.geonames.org/3054643/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.04045,
+          47.49835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IDN",
+      "properties": {
+        "country_id": "IDN",
+        "country_name": "Indonesia",
+        "capital_name": "Jakarta",
+        "source_url": "https://www.geonames.org/1642911/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.84513,
+          -6.21462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IND",
+      "properties": {
+        "country_id": "IND",
+        "country_name": "India",
+        "capital_name": "New Delhi",
+        "source_url": "https://www.geonames.org/1261481/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2148,
+          28.62137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IRL",
+      "properties": {
+        "country_id": "IRL",
+        "country_name": "Ireland",
+        "capital_name": "Dublin",
+        "source_url": "https://www.geonames.org/2964574/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.24889,
+          53.33306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IRN",
+      "properties": {
+        "country_id": "IRN",
+        "country_name": "Iran",
+        "capital_name": "Tehran",
+        "source_url": "https://www.geonames.org/112931/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.42151,
+          35.69439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IRQ",
+      "properties": {
+        "country_id": "IRQ",
+        "country_name": "Iraq",
+        "capital_name": "Baghdad",
+        "source_url": "https://www.geonames.org/98182/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.40088,
+          33.34058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ISL",
+      "properties": {
+        "country_id": "ISL",
+        "country_name": "Iceland",
+        "capital_name": "Reykjavík",
+        "source_url": "https://www.geonames.org/3413829/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Reykjavik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.89541,
+          64.13548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ISR",
+      "properties": {
+        "country_id": "ISR",
+        "country_name": "Israel",
+        "capital_name": "Jerusalem",
+        "source_url": "https://www.geonames.org/281184/",
+        "selection_note": "Jerusalem selected from GeoNames; international status disputed."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21633,
+          31.76904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ITA",
+      "properties": {
+        "country_id": "ITA",
+        "country_name": "Italy",
+        "capital_name": "Rome",
+        "source_url": "https://www.geonames.org/3169070/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51133,
+          41.89193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JAM",
+      "properties": {
+        "country_id": "JAM",
+        "country_name": "Jamaica",
+        "capital_name": "Kingston",
+        "source_url": "https://www.geonames.org/3489854/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.79358,
+          17.99702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JOR",
+      "properties": {
+        "country_id": "JOR",
+        "country_name": "Jordan",
+        "capital_name": "Amman",
+        "source_url": "https://www.geonames.org/250441/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.94503,
+          31.95522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JPN",
+      "properties": {
+        "country_id": "JPN",
+        "country_name": "Japan",
+        "capital_name": "Tokyo",
+        "source_url": "https://www.geonames.org/1850147/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.69171,
+          35.6895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KAZ",
+      "properties": {
+        "country_id": "KAZ",
+        "country_name": "Kazakhstan",
+        "capital_name": "Astana",
+        "source_url": "https://www.geonames.org/1526273/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.44598,
+          51.1801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KEN",
+      "properties": {
+        "country_id": "KEN",
+        "country_name": "Kenya",
+        "capital_name": "Nairobi",
+        "source_url": "https://www.geonames.org/184745/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.81667,
+          -1.28333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KGZ",
+      "properties": {
+        "country_id": "KGZ",
+        "country_name": "Kyrgyzstan",
+        "capital_name": "Bishkek",
+        "source_url": "https://www.geonames.org/1528675/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.59,
+          42.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KHM",
+      "properties": {
+        "country_id": "KHM",
+        "country_name": "Cambodia",
+        "capital_name": "Phnom Penh",
+        "source_url": "https://www.geonames.org/1821306/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.91601,
+          11.56245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KIR",
+      "properties": {
+        "country_id": "KIR",
+        "country_name": "Kiribati",
+        "capital_name": "Tarawa",
+        "source_url": "https://www.geonames.org/2110257/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: South Tarawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.97696,
+          1.3278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KNA",
+      "properties": {
+        "country_id": "KNA",
+        "country_name": "Saint Kitts and Nevis",
+        "capital_name": "Basseterre",
+        "source_url": "https://www.geonames.org/3575551/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.72499,
+          17.2955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KOR",
+      "properties": {
+        "country_id": "KOR",
+        "country_name": "South Korea",
+        "capital_name": "Seoul",
+        "source_url": "https://www.geonames.org/1835848/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9784,
+          37.566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KWT",
+      "properties": {
+        "country_id": "KWT",
+        "country_name": "Kuwait",
+        "capital_name": "Kuwait City",
+        "source_url": "https://www.geonames.org/285787/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.97429,
+          29.367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LAO",
+      "properties": {
+        "country_id": "LAO",
+        "country_name": "Laos",
+        "capital_name": "Vientiane",
+        "source_url": "https://www.geonames.org/1651944/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6,
+          17.96667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LBN",
+      "properties": {
+        "country_id": "LBN",
+        "country_name": "Lebanon",
+        "capital_name": "Beirut",
+        "source_url": "https://www.geonames.org/276781/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50157,
+          33.89332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LBR",
+      "properties": {
+        "country_id": "LBR",
+        "country_name": "Liberia",
+        "capital_name": "Monrovia",
+        "source_url": "https://www.geonames.org/2274895/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7969,
+          6.30054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LBY",
+      "properties": {
+        "country_id": "LBY",
+        "country_name": "Libya",
+        "capital_name": "Tripoli",
+        "source_url": "https://www.geonames.org/2210247/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18733,
+          32.88743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LCA",
+      "properties": {
+        "country_id": "LCA",
+        "country_name": "Saint Lucia",
+        "capital_name": "Castries",
+        "source_url": "https://www.geonames.org/3576812/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.00614,
+          13.9957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LIE",
+      "properties": {
+        "country_id": "LIE",
+        "country_name": "Liechtenstein",
+        "capital_name": "Vaduz",
+        "source_url": "https://www.geonames.org/3042030/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.52154,
+          47.14151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LKA",
+      "properties": {
+        "country_id": "LKA",
+        "country_name": "Sri Lanka",
+        "capital_name": "Colombo",
+        "source_url": "https://www.geonames.org/1248991/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.84868,
+          6.93548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LSO",
+      "properties": {
+        "country_id": "LSO",
+        "country_name": "Lesotho",
+        "capital_name": "Maseru",
+        "source_url": "https://www.geonames.org/932505/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.48333,
+          -29.31667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LTU",
+      "properties": {
+        "country_id": "LTU",
+        "country_name": "Lithuania",
+        "capital_name": "Vilnius",
+        "source_url": "https://www.geonames.org/593116/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2798,
+          54.68916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LUX",
+      "properties": {
+        "country_id": "LUX",
+        "country_name": "Luxembourg",
+        "capital_name": "Luxembourg",
+        "source_url": "https://www.geonames.org/2960316/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13268,
+          49.60982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LVA",
+      "properties": {
+        "country_id": "LVA",
+        "country_name": "Latvia",
+        "capital_name": "Riga",
+        "source_url": "https://www.geonames.org/456172/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.10589,
+          56.946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MAR",
+      "properties": {
+        "country_id": "MAR",
+        "country_name": "Morocco",
+        "capital_name": "Rabat",
+        "source_url": "https://www.geonames.org/2538475/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.83255,
+          34.01325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MCO",
+      "properties": {
+        "country_id": "MCO",
+        "country_name": "Monaco",
+        "capital_name": "Monaco",
+        "source_url": "https://www.geonames.org/2993458/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.42145,
+          43.73718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MDA",
+      "properties": {
+        "country_id": "MDA",
+        "country_name": "Moldova",
+        "capital_name": "Chisinau",
+        "source_url": "https://www.geonames.org/618426/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Chișinău"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.85938,
+          47.00902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MDG",
+      "properties": {
+        "country_id": "MDG",
+        "country_name": "Madagascar",
+        "capital_name": "Antananarivo",
+        "source_url": "https://www.geonames.org/1070940/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.53613,
+          -18.91368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MDV",
+      "properties": {
+        "country_id": "MDV",
+        "country_name": "Maldives",
+        "capital_name": "Male",
+        "source_url": "https://www.geonames.org/1282027/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Malé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.50916,
+          4.17521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MEX",
+      "properties": {
+        "country_id": "MEX",
+        "country_name": "Mexico",
+        "capital_name": "Mexico City",
+        "source_url": "https://www.geonames.org/3530597/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.12766,
+          19.42847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MHL",
+      "properties": {
+        "country_id": "MHL",
+        "country_name": "Marshall Islands",
+        "capital_name": "Majuro",
+        "source_url": "https://www.geonames.org/2113779/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.38027,
+          7.08971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MKD",
+      "properties": {
+        "country_id": "MKD",
+        "country_name": "North Macedonia",
+        "capital_name": "Skopje",
+        "source_url": "https://www.geonames.org/785842/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.43141,
+          41.99646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MLI",
+      "properties": {
+        "country_id": "MLI",
+        "country_name": "Mali",
+        "capital_name": "Bamako",
+        "source_url": "https://www.geonames.org/2460596/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.97522,
+          12.60915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MLT",
+      "properties": {
+        "country_id": "MLT",
+        "country_name": "Malta",
+        "capital_name": "Valletta",
+        "source_url": "https://www.geonames.org/2562305/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5148,
+          35.89968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MMR",
+      "properties": {
+        "country_id": "MMR",
+        "country_name": "Myanmar",
+        "capital_name": "Nay Pyi Taw",
+        "source_url": "https://www.geonames.org/6611854/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Naypyidaw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.12972,
+          19.745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MNE",
+      "properties": {
+        "country_id": "MNE",
+        "country_name": "Montenegro",
+        "capital_name": "Podgorica",
+        "source_url": "https://www.geonames.org/3193044/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.26309,
+          42.44124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MNG",
+      "properties": {
+        "country_id": "MNG",
+        "country_name": "Mongolia",
+        "capital_name": "Ulan Bator",
+        "source_url": "https://www.geonames.org/2028462/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.88324,
+          47.90771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MOZ",
+      "properties": {
+        "country_id": "MOZ",
+        "country_name": "Mozambique",
+        "capital_name": "Maputo",
+        "source_url": "https://www.geonames.org/1040652/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.58322,
+          -25.96553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MRT",
+      "properties": {
+        "country_id": "MRT",
+        "country_name": "Mauritania",
+        "capital_name": "Nouakchott",
+        "source_url": "https://www.geonames.org/2377450/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.9785,
+          18.08581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MUS",
+      "properties": {
+        "country_id": "MUS",
+        "country_name": "Mauritius",
+        "capital_name": "Port Louis",
+        "source_url": "https://www.geonames.org/934154/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.49889,
+          -20.16194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MWI",
+      "properties": {
+        "country_id": "MWI",
+        "country_name": "Malawi",
+        "capital_name": "Lilongwe",
+        "source_url": "https://www.geonames.org/927967/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.78725,
+          -13.96692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "MYS",
+      "properties": {
+        "country_id": "MYS",
+        "country_name": "Malaysia",
+        "capital_name": "Kuala Lumpur",
+        "source_url": "https://www.geonames.org/1735161/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.68653,
+          3.1412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NAM",
+      "properties": {
+        "country_id": "NAM",
+        "country_name": "Namibia",
+        "capital_name": "Windhoek",
+        "source_url": "https://www.geonames.org/3352136/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.08323,
+          -22.55941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NER",
+      "properties": {
+        "country_id": "NER",
+        "country_name": "Niger",
+        "capital_name": "Niamey",
+        "source_url": "https://www.geonames.org/2440485/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1098,
+          13.51366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NGA",
+      "properties": {
+        "country_id": "NGA",
+        "country_name": "Nigeria",
+        "capital_name": "Abuja",
+        "source_url": "https://www.geonames.org/2352778/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.49508,
+          9.05785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NIC",
+      "properties": {
+        "country_id": "NIC",
+        "country_name": "Nicaragua",
+        "capital_name": "Managua",
+        "source_url": "https://www.geonames.org/3617763/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2504,
+          12.13282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NLD",
+      "properties": {
+        "country_id": "NLD",
+        "country_name": "Netherlands",
+        "capital_name": "Amsterdam",
+        "source_url": "https://www.geonames.org/2759794/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88969,
+          52.37403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NOR",
+      "properties": {
+        "country_id": "NOR",
+        "country_name": "Norway",
+        "capital_name": "Oslo",
+        "source_url": "https://www.geonames.org/3143244/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.74609,
+          59.91273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NPL",
+      "properties": {
+        "country_id": "NPL",
+        "country_name": "Nepal",
+        "capital_name": "Kathmandu",
+        "source_url": "https://www.geonames.org/1283240/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3206,
+          27.70169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NRU",
+      "properties": {
+        "country_id": "NRU",
+        "country_name": "Nauru",
+        "capital_name": "Yaren",
+        "source_url": "https://www.geonames.org/7626461/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          166.9252,
+          -0.55085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NZL",
+      "properties": {
+        "country_id": "NZL",
+        "country_name": "New Zealand",
+        "capital_name": "Wellington",
+        "source_url": "https://www.geonames.org/2179537/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.77557,
+          -41.28664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "OMN",
+      "properties": {
+        "country_id": "OMN",
+        "country_name": "Oman",
+        "capital_name": "Muscat",
+        "source_url": "https://www.geonames.org/287286/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.40778,
+          23.58413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PAK",
+      "properties": {
+        "country_id": "PAK",
+        "country_name": "Pakistan",
+        "capital_name": "Islamabad",
+        "source_url": "https://www.geonames.org/1176615/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.04329,
+          33.72148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PAN",
+      "properties": {
+        "country_id": "PAN",
+        "country_name": "Panama",
+        "capital_name": "Panama City",
+        "source_url": "https://www.geonames.org/3703443/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.51973,
+          8.9936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PER",
+      "properties": {
+        "country_id": "PER",
+        "country_name": "Peru",
+        "capital_name": "Lima",
+        "source_url": "https://www.geonames.org/3936456/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02824,
+          -12.04318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PHL",
+      "properties": {
+        "country_id": "PHL",
+        "country_name": "Philippines",
+        "capital_name": "Manila",
+        "source_url": "https://www.geonames.org/1701668/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9822,
+          14.6042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PLW",
+      "properties": {
+        "country_id": "PLW",
+        "country_name": "Palau",
+        "capital_name": "Ngerulmud",
+        "source_url": "https://www.geonames.org/8063361/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6238,
+          7.50077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PNG",
+      "properties": {
+        "country_id": "PNG",
+        "country_name": "Papua New Guinea",
+        "capital_name": "Port Moresby",
+        "source_url": "https://www.geonames.org/2088122/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.15089,
+          -9.47723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "POL",
+      "properties": {
+        "country_id": "POL",
+        "country_name": "Poland",
+        "capital_name": "Warsaw",
+        "source_url": "https://www.geonames.org/756135/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.01178,
+          52.22977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PRK",
+      "properties": {
+        "country_id": "PRK",
+        "country_name": "North Korea",
+        "capital_name": "Pyongyang",
+        "source_url": "https://www.geonames.org/1871859/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.75432,
+          39.03385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PRT",
+      "properties": {
+        "country_id": "PRT",
+        "country_name": "Portugal",
+        "capital_name": "Lisbon",
+        "source_url": "https://www.geonames.org/2267057/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1498,
+          38.72509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PRY",
+      "properties": {
+        "country_id": "PRY",
+        "country_name": "Paraguay",
+        "capital_name": "Asunción",
+        "source_url": "https://www.geonames.org/3439389/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.647,
+          -25.28646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PSE",
+      "properties": {
+        "country_id": "PSE",
+        "country_name": "Palestine",
+        "capital_name": "Ramallah",
+        "source_url": "https://www.geonames.org/282239/",
+        "selection_note": "Ramallah administrative seat; capital status disputed; coordinate choice is a model convention."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.20422,
+          31.89964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "QAT",
+      "properties": {
+        "country_id": "QAT",
+        "country_name": "Qatar",
+        "capital_name": "Doha",
+        "source_url": "https://www.geonames.org/290030/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.53096,
+          25.28545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ROU",
+      "properties": {
+        "country_id": "ROU",
+        "country_name": "Romania",
+        "capital_name": "Bucharest",
+        "source_url": "https://www.geonames.org/683506/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.10626,
+          44.43225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RUS",
+      "properties": {
+        "country_id": "RUS",
+        "country_name": "Russia",
+        "capital_name": "Moscow",
+        "source_url": "https://www.geonames.org/524901/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61781,
+          55.75204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "RWA",
+      "properties": {
+        "country_id": "RWA",
+        "country_name": "Rwanda",
+        "capital_name": "Kigali",
+        "source_url": "https://www.geonames.org/202061/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.05885,
+          -1.94995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SAU",
+      "properties": {
+        "country_id": "SAU",
+        "country_name": "Saudi Arabia",
+        "capital_name": "Riyadh",
+        "source_url": "https://www.geonames.org/108410/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.72185,
+          24.68773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SDN",
+      "properties": {
+        "country_id": "SDN",
+        "country_name": "Sudan",
+        "capital_name": "Khartoum",
+        "source_url": "https://www.geonames.org/379252/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.53241,
+          15.55177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SEN",
+      "properties": {
+        "country_id": "SEN",
+        "country_name": "Senegal",
+        "capital_name": "Dakar",
+        "source_url": "https://www.geonames.org/2253354/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.44406,
+          14.6937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SGP",
+      "properties": {
+        "country_id": "SGP",
+        "country_name": "Singapore",
+        "capital_name": "Singapore",
+        "source_url": "https://www.geonames.org/1880252/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85007,
+          1.28967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SLB",
+      "properties": {
+        "country_id": "SLB",
+        "country_name": "Solomon Islands",
+        "capital_name": "Honiara",
+        "source_url": "https://www.geonames.org/2108502/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.95,
+          -9.43333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SLE",
+      "properties": {
+        "country_id": "SLE",
+        "country_name": "Sierra Leone",
+        "capital_name": "Freetown",
+        "source_url": "https://www.geonames.org/2409306/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.2356,
+          8.48714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SLV",
+      "properties": {
+        "country_id": "SLV",
+        "country_name": "El Salvador",
+        "capital_name": "San Salvador",
+        "source_url": "https://www.geonames.org/3583361/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.18718,
+          13.68935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SMR",
+      "properties": {
+        "country_id": "SMR",
+        "country_name": "San Marino",
+        "capital_name": "San Marino",
+        "source_url": "https://www.geonames.org/3168070/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: City of San Marino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.44639,
+          43.93667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SOM",
+      "properties": {
+        "country_id": "SOM",
+        "country_name": "Somalia",
+        "capital_name": "Mogadishu",
+        "source_url": "https://www.geonames.org/53654/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.34375,
+          2.03711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SRB",
+      "properties": {
+        "country_id": "SRB",
+        "country_name": "Serbia",
+        "capital_name": "Belgrade",
+        "source_url": "https://www.geonames.org/792680/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.46513,
+          44.80401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SSD",
+      "properties": {
+        "country_id": "SSD",
+        "country_name": "South Sudan",
+        "capital_name": "Juba",
+        "source_url": "https://www.geonames.org/373303/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.58247,
+          4.85165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "STP",
+      "properties": {
+        "country_id": "STP",
+        "country_name": "São Tomé and Príncipe",
+        "capital_name": "São Tomé",
+        "source_url": "https://www.geonames.org/2410763/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7299,
+          0.33756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SUR",
+      "properties": {
+        "country_id": "SUR",
+        "country_name": "Suriname",
+        "capital_name": "Paramaribo",
+        "source_url": "https://www.geonames.org/3383330/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.16682,
+          5.86638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SVK",
+      "properties": {
+        "country_id": "SVK",
+        "country_name": "Slovakia",
+        "capital_name": "Bratislava",
+        "source_url": "https://www.geonames.org/3060972/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.10674,
+          48.14816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SVN",
+      "properties": {
+        "country_id": "SVN",
+        "country_name": "Slovenia",
+        "capital_name": "Ljubljana",
+        "source_url": "https://www.geonames.org/3196359/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.50513,
+          46.05108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SWE",
+      "properties": {
+        "country_id": "SWE",
+        "country_name": "Sweden",
+        "capital_name": "Stockholm",
+        "source_url": "https://www.geonames.org/2673730/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06871,
+          59.32938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SWZ",
+      "properties": {
+        "country_id": "SWZ",
+        "country_name": "Eswatini",
+        "capital_name": "Mbabane",
+        "source_url": "https://www.geonames.org/934985/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Lobamba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.13333,
+          -26.31667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYC",
+      "properties": {
+        "country_id": "SYC",
+        "country_name": "Seychelles",
+        "capital_name": "Victoria",
+        "source_url": "https://www.geonames.org/241131/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.45501,
+          -4.62001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SYR",
+      "properties": {
+        "country_id": "SYR",
+        "country_name": "Syria",
+        "capital_name": "Damascus",
+        "source_url": "https://www.geonames.org/170654/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.29128,
+          33.5102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TCD",
+      "properties": {
+        "country_id": "TCD",
+        "country_name": "Chad",
+        "capital_name": "N'Djamena",
+        "source_url": "https://www.geonames.org/2427123/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.0444,
+          12.10672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TGO",
+      "properties": {
+        "country_id": "TGO",
+        "country_name": "Togo",
+        "capital_name": "Lomé",
+        "source_url": "https://www.geonames.org/2365267/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.22154,
+          6.12874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "THA",
+      "properties": {
+        "country_id": "THA",
+        "country_name": "Thailand",
+        "capital_name": "Bangkok",
+        "source_url": "https://www.geonames.org/1609350/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.50144,
+          13.75398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TJK",
+      "properties": {
+        "country_id": "TJK",
+        "country_name": "Tajikistan",
+        "capital_name": "Dushanbe",
+        "source_url": "https://www.geonames.org/1221874/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.77905,
+          38.53575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TKM",
+      "properties": {
+        "country_id": "TKM",
+        "country_name": "Turkmenistan",
+        "capital_name": "Ashgabat",
+        "source_url": "https://www.geonames.org/162183/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.38333,
+          37.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TLS",
+      "properties": {
+        "country_id": "TLS",
+        "country_name": "Timor-Leste",
+        "capital_name": "Dili",
+        "source_url": "https://www.geonames.org/1645457/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.57361,
+          -8.55861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TON",
+      "properties": {
+        "country_id": "TON",
+        "country_name": "Tonga",
+        "capital_name": "Nuku‘alofa",
+        "source_url": "https://www.geonames.org/4032402/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Nuku'alofa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -175.20114,
+          -21.13683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TTO",
+      "properties": {
+        "country_id": "TTO",
+        "country_name": "Trinidad and Tobago",
+        "capital_name": "Port of Spain",
+        "source_url": "https://www.geonames.org/3573890/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.51889,
+          10.66668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TUN",
+      "properties": {
+        "country_id": "TUN",
+        "country_name": "Tunisia",
+        "capital_name": "Tunis",
+        "source_url": "https://www.geonames.org/2464470/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16579,
+          36.81897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TUR",
+      "properties": {
+        "country_id": "TUR",
+        "country_name": "Türkiye",
+        "capital_name": "Ankara",
+        "source_url": "https://www.geonames.org/323786/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.85427,
+          39.91987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TUV",
+      "properties": {
+        "country_id": "TUV",
+        "country_name": "Tuvalu",
+        "capital_name": "Funafuti",
+        "source_url": "https://www.geonames.org/2110394/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          179.19417,
+          -8.52425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TZA",
+      "properties": {
+        "country_id": "TZA",
+        "country_name": "Tanzania",
+        "capital_name": "Dodoma",
+        "source_url": "https://www.geonames.org/160196/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.73947,
+          -6.17221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UGA",
+      "properties": {
+        "country_id": "UGA",
+        "country_name": "Uganda",
+        "capital_name": "Kampala",
+        "source_url": "https://www.geonames.org/232422/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.58219,
+          0.31628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UKR",
+      "properties": {
+        "country_id": "UKR",
+        "country_name": "Ukraine",
+        "capital_name": "Kyiv",
+        "source_url": "https://www.geonames.org/703448/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.5238,
+          50.45466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "URY",
+      "properties": {
+        "country_id": "URY",
+        "country_name": "Uruguay",
+        "capital_name": "Montevideo",
+        "source_url": "https://www.geonames.org/3441575/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.18816,
+          -34.90328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "USA",
+      "properties": {
+        "country_id": "USA",
+        "country_name": "United States",
+        "capital_name": "Washington",
+        "source_url": "https://www.geonames.org/4140963/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Washington D.C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03637,
+          38.89511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "UZB",
+      "properties": {
+        "country_id": "UZB",
+        "country_name": "Uzbekistan",
+        "capital_name": "Tashkent",
+        "source_url": "https://www.geonames.org/1512569/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.21627,
+          41.26465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VAT",
+      "properties": {
+        "country_id": "VAT",
+        "country_name": "Vatican City",
+        "capital_name": "Vatican City",
+        "source_url": "https://www.geonames.org/6691831/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.45414,
+          41.90268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VCT",
+      "properties": {
+        "country_id": "VCT",
+        "country_name": "Saint Vincent and the Grenadines",
+        "capital_name": "Kingstown",
+        "source_url": "https://www.geonames.org/3577887/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.22742,
+          13.15527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VEN",
+      "properties": {
+        "country_id": "VEN",
+        "country_name": "Venezuela",
+        "capital_name": "Caracas",
+        "source_url": "https://www.geonames.org/3646738/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.87919,
+          10.48801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VNM",
+      "properties": {
+        "country_id": "VNM",
+        "country_name": "Vietnam",
+        "capital_name": "Hanoi",
+        "source_url": "https://www.geonames.org/1581130/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84117,
+          21.0245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VUT",
+      "properties": {
+        "country_id": "VUT",
+        "country_name": "Vanuatu",
+        "capital_name": "Port-Vila",
+        "source_url": "https://www.geonames.org/2135171/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Port Vila"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.31366,
+          -17.73648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "WSM",
+      "properties": {
+        "country_id": "WSM",
+        "country_name": "Samoa",
+        "capital_name": "Apia",
+        "source_url": "https://www.geonames.org/4035413/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -171.76666,
+          -13.83333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "YEM",
+      "properties": {
+        "country_id": "YEM",
+        "country_name": "Yemen",
+        "capital_name": "Sanaa",
+        "source_url": "https://www.geonames.org/71137/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Sana'a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.20646,
+          15.35452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ZAF",
+      "properties": {
+        "country_id": "ZAF",
+        "country_name": "South Africa",
+        "capital_name": "Pretoria",
+        "source_url": "https://www.geonames.org/964137/",
+        "selection_note": "GeoNames PPLC selected; reference capital label: Pretoria; Bloemfontein; Cape Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.18783,
+          -25.74486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ZMB",
+      "properties": {
+        "country_id": "ZMB",
+        "country_name": "Zambia",
+        "capital_name": "Lusaka",
+        "source_url": "https://www.geonames.org/909137/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.28713,
+          -15.40669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ZWE",
+      "properties": {
+        "country_id": "ZWE",
+        "country_name": "Zimbabwe",
+        "capital_name": "Harare",
+        "source_url": "https://www.geonames.org/890299/",
+        "selection_note": "GeoNames PPLC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.05337,
+          -17.82772
+        ]
+      }
+    }
+  ]
+}

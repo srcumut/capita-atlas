@@ -1,0 +1,5 @@
+country_id,indicator_id,value,unit,reference_year,source_url,status,methodology_note
+ARE,gdp_current_usd,569100000000,current USD,2025,https://www.imf.org/-/media/files/publications/cr/2025/english/1areea2025001-source-pdf.pdf,estimate,IMF 2025 Article IV Table 2 GDP billions of US dollars 569.1; estimated 2025
+BHS,gdp_current_usd,16396000000,current USD,2025,https://www.imf.org/-/media/files/publications/cr/2026/english/1bhsea2026001-source-pdf.pdf,estimate,IMF 2025 Article IV Table 3 nominal GDP millions of US dollars 16396; 2025 estimate
+PRK,gdp_current_usd,16447000000,current USD,2023,https://unstats.un.org/UNSDWebsite/publications/pocketbook/world-stats-pocketbook-2025.pdf,estimate,UN World Statistics Pocketbook 2025 GDP million current US dollars 16447 marked 2023 estimate
+VAT,population_total,882,persons,2024,https://www.vaticanstate.va/en/state-and-government/general-informations/population.html,reported,Residents citizens and noncitizens at 31 December 2024

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "decision_id": "D-005",
+  "reference_year": 2025,
+  "country_count": 195,
+  "indicator_count": 2,
+  "observation_count": 390,
+  "complete_country_count": 181,
+  "global_result_ready": false,
+  "counts_by_indicator": {
+    "population_total": {
+      "reported": 194,
+      "source_blank": 0,
+      "source_row_absent": 1
+    },
+    "gdp_current_usd": {
+      "reported": 181,
+      "source_blank": 13,
+      "source_row_absent": 1
+    }
+  },
+  "missing_by_indicator": {
+    "population_total": [
+      {
+        "country_id": "VAT",
+        "reason": "source_row_absent"
+      }
+    ],
+    "gdp_current_usd": [
+      {
+        "country_id": "AFG",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "ARE",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "BHS",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "CUB",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "ERI",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "LBN",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "LIE",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "MCO",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "PRK",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "SMR",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "SSD",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "SYR",
+        "reason": "source_blank"
+      },
+      {
+        "country_id": "VAT",
+        "reason": "source_row_absent"
+      },
+      {
+        "country_id": "YEM",
+        "reason": "source_blank"
+      }
+    ]
+  }
+}

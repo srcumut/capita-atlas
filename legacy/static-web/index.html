@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>World Capital Simulator</title>
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@6.11.2/dist/maplibre-gl.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header>
+    <strong>World Capital Simulator</strong>
+    <button id="reset" type="button">Başlangıç görünümü</button>
+  </header>
+  <main>
+    <div id="map" role="application" aria-label="Yakınlaştırılabilir dünya haritası"></div>
+    <aside aria-live="polite">
+      <h2>Model ayarları</h2>
+      <label>Nüfus ağırlığı <output id="weight-value">50%</output><input id="weight" type="range" min="0" max="100" value="50"></label>
+      <p>Ekonomi ağırlığı: <span id="economy-value">50%</span></p>
+      <label>Kilometre bütçesi <input id="budget" type="number" min="0" max="10000" step="1" value="10000"></label>
+      <label>Hesap modu <select id="mode"><option value="all_data">Sekiz kategori · en güncel mevcut veri</option><option value="observed">Önceki 2025 iki kategori modeli</option><option value="exploratory">Önceki varsayımlı keşif senaryosu</option></select></label>
+      <label>Toplam kapasite normalizasyonu <select id="normalization"><option value="share">Ham büyüklük payı</option><option value="log">Logaritmik</option><option value="minmax">Min–max</option><option value="rank">Yüzdelik sıra</option><option value="max">Maksimuma bölme (payla eşdeğer)</option></select></label>
+      <button id="calculate" type="button">Hesapla</button>
+      <p class="note">195 ülke · WGS84 · başlangıç 0°, 0°. Sekiz kategori eşit ağırlıklıdır. Eksik kayıtlar veri olarak null kalır ve o ülkenin ilgili kategoriye katkısı olmaz. Yıllar ülkeye göre değişir.</p>
+      <section id="result"><h2>Sonuç</h2><p>Yükleniyor…</p></section>
+      <section id="sensitivity"><h2>Duyarlılık ve belirsizlik</h2><p>Yükleniyor…</p></section>
+      <section id="info"><h2>Ülke</h2><p>Bir başkent seçin.</p></section>
+    </aside>
+  </main>
+  <script type="module" src="./map.js"></script>
+</body>
+</html>

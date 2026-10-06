@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "WB_WDI",
+    "indicator_id": "population_total",
+    "source_series": "SP.POP.TOTL",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL?format=json&per_page=20000&date=1960:2025",
+    "retrieved_at": "2026-10-02T22:16:43.722649+00:00",
+    "release": "live API response; no fixed release",
+    "license_url": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+    "raw_path": "data/raw/wdi/SP.POP.TOTL-1960-2025.json",
+    "sha256": "21816454b5ea6e6b7a602aa7e1b10d8d275bf2bb59f38f882477e4d1ed3b09ab",
+    "bytes": 3512353,
+    "source_rows": 17490,
+    "pages": 1
+  },
+  {
+    "source_id": "WB_WDI",
+    "indicator_id": "gdp_current_usd",
+    "source_series": "NY.GDP.MKTP.CD",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NY.GDP.MKTP.CD?format=json&per_page=20000&date=1960:2025",
+    "retrieved_at": "2026-10-02T22:16:43.722649+00:00",
+    "release": "live API response; no fixed release",
+    "license_url": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+    "raw_path": "data/raw/wdi/NY.GDP.MKTP.CD-1960-2025.json",
+    "sha256": "337b37071281a128340331068a39abae870868ab49c4032b56e17b89871deed1",
+    "bytes": 3675128,
+    "source_rows": 17490,
+    "pages": 1
+  },
+  {
+    "source_id": "WB_WDI",
+    "indicator_id": "manufacturing_va_usd",
+    "source_series": "NV.IND.MANF.CD",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/NV.IND.MANF.CD?format=json&per_page=20000&date=1960:2025",
+    "retrieved_at": "2026-10-02T22:16:43.722649+00:00",
+    "release": "live API response; no fixed release",
+    "license_url": "https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets",
+    "raw_path": "data/raw/wdi/NV.IND.MANF.CD-1960-2025.json",
+    "sha256": "f57354bdd605aa0d66d1d645eb1175fdd4d303c0d554da88448ff8980d67d538",
+    "bytes": 4023059,
+    "source_rows": 17490,
+    "pages": 1
+  }
+]

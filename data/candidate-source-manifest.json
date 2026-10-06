@@ -1,0 +1,57 @@
+[
+  {
+    "source_id": "UNDP_HDR",
+    "indicator_id": "hdi",
+    "raw_path": "data/raw/undp/HDR25_Composite_indices_complete_time_series.csv",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_complete_time_series.csv",
+    "release": "2025 HDR",
+    "terms_url": "https://hdr.undp.org/copyright-and-terms-use",
+    "retrieved_at": "2026-10-02T21:59:50.472777+00:00",
+    "sha256": "61ed82e5b66c88dfca8ff9fac775c63981ecab6a254862af97acacc41c143117",
+    "bytes": 2001263
+  },
+  {
+    "source_id": "FAOSTAT",
+    "indicator_id": "agricultural_gpv",
+    "raw_path": "data/raw/faostat/Value_of_Production_E_All_Data_(Normalized).zip",
+    "url": "https://bulks-faostat.fao.org/production/Value_of_Production_E_All_Data_(Normalized).zip",
+    "release": "live QV bulk download; 2014-2016 base",
+    "terms_url": "https://www.fao.org/contact-us/terms/db-terms-of-use/en",
+    "retrieved_at": "2026-10-02T22:01:14.160303+00:00",
+    "sha256": "14e7b718f1be0dd70e3493aeccb04d2ff2ddc1a39e17a062867f1182a807c422",
+    "bytes": 30326566
+  },
+  {
+    "source_id": "SIPRI_MILEX",
+    "indicator_id": "military_expenditure",
+    "raw_path": "data/raw/sipri/SIPRI-Milex-data-1949-2025_v1.2.xlsx",
+    "url": "https://www.sipri.org/sites/default/files/SIPRI-Milex-data-1949-2025_v1.2.xlsx",
+    "release": "2026 v1.2; 2024 dollar base",
+    "terms_url": "https://www.sipri.org/databases/milex",
+    "retrieved_at": "2026-10-02T21:59:48.787991+00:00",
+    "sha256": "6cc3a30b1064f9f02e60236667eef82e08cad42910ce630909d004ad2c398a9d",
+    "bytes": 922552
+  },
+  {
+    "source_id": "UN_SDG",
+    "indicator_id": "disaster_mortality_rate",
+    "raw_path": "data/raw/un-sdg/2026_Q3.1_AllData_After_20260930_CSV.zip",
+    "url": "https://unstats.un.org/sdgs/indicators/database/archive/2026_Q3.1_AllData_After_20260930_CSV.zip",
+    "release": "2026-09-30 archive",
+    "terms_url": "https://www.un.org/en/about-us/terms-of-use",
+    "retrieved_at": "2026-10-02T22:03:46.500075+00:00",
+    "sha256": "b66bfde97f52733d4842b71e26fc92fb765e9807fcb2c1a2ebffc4e9d59f2743",
+    "bytes": 68233529
+  },
+  {
+    "source_id": "UNCTADSTAT",
+    "indicator_id": "merchandise_exports",
+    "raw_path": "data/raw/unctad/US_TradeMerchTotal.csv.7z",
+    "url": "https://unctadstat-api.unctad.org/bulkdownload/US.TradeMerchTotal/US_TradeMerchTotal",
+    "release": "TradeMerchTotal; updated 2026-03-19",
+    "terms_url": "https://unctadstat.unctad.org/EN/About.html",
+    "retrieved_at": "2026-10-02T22:11:51.901466+00:00",
+    "sha256": "fbe6bc0acbdb67fcda671e4ef8414942108cf3df4847d5d91a90b254a9a9e6dc",
+    "bytes": 424083
+  }
+]

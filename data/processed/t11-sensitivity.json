@@ -1,0 +1,237 @@
+{
+  "schema_version": 1,
+  "reference_year": 2025,
+  "country_count": 195,
+  "baseline": {
+    "population_weight": 0.5,
+    "budget_km": 10000
+  },
+  "scenarios": [
+    {
+      "population_weight": 0,
+      "economy_weight": 1,
+      "budget_km": 0,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0,
+      "economy_weight": 1,
+      "budget_km": 2500,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0,
+      "economy_weight": 1,
+      "budget_km": 5000,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0,
+      "economy_weight": 1,
+      "budget_km": 10000,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.25,
+      "economy_weight": 0.75,
+      "budget_km": 0,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.25,
+      "economy_weight": 0.75,
+      "budget_km": 2500,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.25,
+      "economy_weight": 0.75,
+      "budget_km": 5000,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.25,
+      "economy_weight": 0.75,
+      "budget_km": 10000,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.5,
+      "economy_weight": 0.5,
+      "budget_km": 0,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.5,
+      "economy_weight": 0.5,
+      "budget_km": 2500,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.5,
+      "economy_weight": 0.5,
+      "budget_km": 5000,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.5,
+      "economy_weight": 0.5,
+      "budget_km": 10000,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.75,
+      "economy_weight": 0.25,
+      "budget_km": 0,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.75,
+      "economy_weight": 0.25,
+      "budget_km": 2500,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.75,
+      "economy_weight": 0.25,
+      "budget_km": 5000,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 0.75,
+      "economy_weight": 0.25,
+      "budget_km": 10000,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 1,
+      "economy_weight": 0,
+      "budget_km": 0,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 1,
+      "economy_weight": 0,
+      "budget_km": 2500,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 1,
+      "economy_weight": 0,
+      "budget_km": 5000,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    },
+    {
+      "population_weight": 1,
+      "economy_weight": 0,
+      "budget_km": 10000,
+      "status": "blocked_missing_data",
+      "missing_observation_count": 15,
+      "missing_country_count": 14,
+      "latitude": null,
+      "longitude": null,
+      "displacement_km": null
+    }
+  ],
+  "analytic_sensitivity": {
+    "scope": "Only conditional on resolving every selected observation in the fixed 195-country scope",
+    "budget": "With fixed data and weights, the net vector and displacement scale linearly with budget; its bearing stays fixed for positive nonzero displacement. At zero budget the result is the origin without bearing.",
+    "weight": "At fixed data, the net vector is an affine combination of population and economy category vectors. For weight change Δw and budget B, its Euclidean shift is at most 2 B |Δw| km; the actual shift and coordinate remain unknown.",
+    "data": "Missing values have no accepted estimates or finite upper bounds; no numerical data-uncertainty radius or global coordinate is available."
+  }
+}
